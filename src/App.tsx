@@ -11,6 +11,7 @@ function App() {
   return (
     <>
       <h1>Johannas nettside</h1>
+      <img className="img-style" src="./bilde.JPG" alt="View from a dock" />
       {textList.map((text) => (
         <BorderText borderText={text} />
       ))}
