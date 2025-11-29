@@ -1,6 +1,8 @@
 .styled-text {
-  color: red
+  color: red;
 }
 .border-box {
   border: 5px dashed rgb(131, 127, 255);
+  padding: 10px 10px;
+  margin-bottom: 15px;
 }
